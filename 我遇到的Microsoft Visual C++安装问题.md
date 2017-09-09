@@ -26,4 +26,6 @@
 ## 4.后记
 - 我的系统是WIN10，所以以上就WIN10系统测试，其他的系统可能没这么多问题，毕竟这个Microsoft Visual C++ 6.0的年纪都跟我们差不多了。
 - 互相学习，如有错误，欢迎指出。
+## 版权
+Copyright © 2017 yangtze-kenzo, All Rights Reserved
 
